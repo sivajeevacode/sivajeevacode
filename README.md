@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sivajeevacode
 - 👀 I’m interested in App, Web, Game Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML
+
 
 <!---
 sivajeevacode/sivajeevacode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sivajeevacode
 - 👀 I’m interested in App, Web Development
-- 🌱 I’m currently learning HTML5, CSS3
+- 🌱 I’m currently learning HTML5, CSS3,JavaScript
 
 
 <!---
